@@ -13,7 +13,7 @@ using Microsoft.Azure.Functions.Worker;
 using System.Net.Http;
 using System.Text;
 using System.Configuration;
-
+using System.Net;
 
 namespace Company.Function
 {
