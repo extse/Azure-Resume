@@ -20,7 +20,9 @@ My Azure Resume
 - Visual Studio Code Extensions - https://code.visualstudio.com/docs/introvideos/extend
 - Git Bash - https://git-scm.com/downloads/win
 - Co-Pilot - https://copilot.microsoft.com 
+- GitHub Copilot for Azure - https://marketplace.visualstudio.com/items/?itemName=ms-azuretools.vscode-azure-github-copilot
 - Azure Functions Extensions - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
+- https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage
 - Azure Functions Core Tools - https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local
 - .NET 9.0 SDK - https://dotnet.microsoft.com/en-us/download 
 
