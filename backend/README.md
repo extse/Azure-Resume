@@ -12,3 +12,5 @@ dotnet add package Microsoft.Azure.Cosmos
 ```bash
 dotnet build
 ```
+
+- Used .Net 8.0-isolated framework 

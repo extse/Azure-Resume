@@ -3,14 +3,25 @@ My Azure Resume
 
 ## Section 1: Front-end
 
-- Frontend folder contains the website.
+- Index.html contains the website.
 - main.js contains visitor counter code. 
 
 ## Section 2: Back-end
 
-- Created Cosmos DB in Azure Portal
-- GetResumeCounter.cs using HTTP Trigger and Azure Function to connect Cosmos DB bindings
-- Counter.cs used in the GetResumeCounter.cs function
+- Created Cosmos DB in Azure Portal.
+- GetResumeCounter.cs using HTTP Trigger and created Azure Function to interact with Cosmos DB counter.
+- Counter.cs used in the GetResumeCounter.cs function.
+
+## Section 3: Deploying to Azure
+
+- Deployed Azure Function (getazresumecounter) to Azure. Get it's URL and update to main.js.
+- Deployed static website to blob container.
+- Set up Azure CDN for HTTPS and custom domain (e.tse.info) support.
+
+
+## Section 4: CI/CD pipeline
+
+- 
 
 ## Resources:
 
@@ -20,6 +31,7 @@ My Azure Resume
 - Visual Studio Code Extensions - https://code.visualstudio.com/docs/introvideos/extend
 - Git Bash - https://git-scm.com/downloads/win
 - Co-Pilot - https://copilot.microsoft.com 
+- Postman - https://www.postman.com/ 
 - GitHub Copilot for Azure - https://marketplace.visualstudio.com/items/?itemName=ms-azuretools.vscode-azure-github-copilot
 - Azure Functions Extensions - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions
 - https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage
