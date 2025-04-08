@@ -21,7 +21,10 @@ My Azure Resume
 
 ## Section 4: CI/CD pipeline
 
-- Created workflows with frontend.main.yml and backend.main.yml
+- frontend.main.yml contains to Front-end workflows.
+- backend.main.yml contains to Back-end workflows.
+- Deployed static website in Azure Storage with GitHub Actions for front-end.
+- Deployed to Azure Functions with GitHub Actions for back-end.
 
 ## Resources:
 
@@ -82,4 +85,3 @@ My Azure Resume
 
 - GitHub Actions for deploying to Azure Function - https://github.com/Azure/functions-action
 
-- Deploy to Azure App Service by using GitHub Actions - https://learn.microsoft.com/en-us/azure/app-service/deploy-github-actions?tabs=openid%2Caspnet
