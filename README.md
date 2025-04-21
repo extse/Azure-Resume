@@ -1,5 +1,5 @@
 # Azure-Resume
-My Azure Resume
+My Azure Resume. The static website https://www.etse.info is hosted on Azure Blob storage. The Azure CDN used for HTTPS and custom domain. Visitor counter is written in JavaScript which triggers the Azure Function and the Function interacts with the Cosmos DB where counter info is stored.  
 
 ## Section 1: Front-end
 
